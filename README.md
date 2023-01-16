@@ -1,4 +1,4 @@
-## Beyza D
+## Beyza 
 
 - [Tryhackme](https://tryhackme.com/p/mizraklisuvari)
 - Matrix: mizraklisuvari:matrix.org
